@@ -2,8 +2,8 @@
 # ![danielp67 header](img/laptop-1209008_1280.jpg)
 
 <p align='center'>
-<a href="https://danielp.promo-46.codeur.online/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/danielp67/danielp67/img/web.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daniel-prabhakar-dev/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/danielp67/danielp67/img/linkedin-icon.svg"></a>
+<a href="https://danielp.promo-46.codeur.online/" target="_blank"><img height="30" src="https://github.com/blob/main/danielp67/danielp67/img/web.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/daniel-prabhakar-dev/" target="_blank"><img height="30" src="https://github.com/blob/main/danielp67/danielp67/img/linkedin-icon.svg"></a>
 </p>
 
 
