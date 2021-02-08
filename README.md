@@ -2,22 +2,20 @@
 # ![danielp67 header](img/laptop-1209008_1280.jpg)
 
 <p align='center'>
-<a href="https://danielp.promo-46.codeur.online/" target="_blank"><img height="30" src="https://github.com/blob/main/danielp67/danielp67/img/web.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daniel-prabhakar-dev/" target="_blank"><img height="30" src="https://github.com/blob/main/danielp67/danielp67/img/linkedin-icon.svg"></a>
+<a href="https://danielp.promo-46.codeur.online/" target="_blank"><img height="30" src="https://github.com/danielp67/danielp67/blob/main/img/web.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/daniel-prabhakar-dev/" target="_blank"><img height="30" src="https://github.com/danielp67/danielp67/blob/main/img/linkedin-icon.svg"></a>
 </p>
-
 
 ### Hi there! My name is Daniel 👋
 
-My name is Daniel and I'm studying to get my License on Web Developer. I'm from France and living in Colmar.
+My name is Daniel and I'm studying to get my Web Developer License. I'm from France and living in Colmar.
 Looking for a job. Available in July 2021
 
 - 🔭 I’m currently working on https://github.com/OFP-CDA-Mulhouse-2020/parisportif2
 - 🌱 I’m currently learning PHP, Symfony and Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 If you need  help on something I already know, feel free to ask.
 - 💬 Ask me about my projects, my skills
-- ⚡ Fun fact: I start learned programming since April 2020 with just Html, Css basics. And now I'm studying to get my License on Web Developer. 
+- ⚡ Fun fact: I start learned programming since April 2020 with just Html, Css basics. And now I'm studying to get my Web Developer License. 
 
 
 ### Techonologies & Tools 🛠️
@@ -45,5 +43,5 @@ Looking for a job. Available in July 2021
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielp67&show_icons=true&theme=tokyonight)](https://github.com/danielp67/github-readme-stats)
 
-
 [![danielp67's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielp67&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/danielp67/github-readme-stats)
+
